@@ -1,0 +1,15 @@
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Methods\bin\Debug\net7.0\Methods.exe
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Methods\bin\Debug\net7.0\Methods.deps.json
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Methods\bin\Debug\net7.0\Methods.runtimeconfig.json
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Methods\bin\Debug\net7.0\Methods.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Methods\bin\Debug\net7.0\Methods.pdb
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Methods\obj\Debug\net7.0\Methods.csproj.AssemblyReference.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Methods\obj\Debug\net7.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Methods\obj\Debug\net7.0\Methods.AssemblyInfoInputs.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Methods\obj\Debug\net7.0\Methods.AssemblyInfo.cs
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Methods\obj\Debug\net7.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Methods\obj\Debug\net7.0\Methods.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Methods\obj\Debug\net7.0\refint\Methods.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Methods\obj\Debug\net7.0\Methods.pdb
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Methods\obj\Debug\net7.0\Methods.genruntimeconfig.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\Methods\obj\Debug\net7.0\ref\Methods.dll
